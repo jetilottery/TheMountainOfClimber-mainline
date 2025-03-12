@@ -1,0 +1,139 @@
+
+SpinsAspine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 322, 57
+  size: 263, 196
+  orig: 263, 196
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 4
+  size: 249, 158
+  orig: 249, 158
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 162, 4
+  size: 249, 158
+  orig: 249, 158
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 587, 108
+  size: 145, 17
+  orig: 145, 17
+  offset: 0, 0
+  index: -1
+SpinsLight03
+  rotate: false
+  xy: 322, 5
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+auToSpinReturn02
+  rotate: false
+  xy: 602, 26
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+auToSpinReturn03
+  rotate: false
+  xy: 606, 173
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+n01
+  rotate: false
+  xy: 688, 198
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+n02
+  rotate: true
+  xy: 545, 7
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+n03
+  rotate: true
+  xy: 602, 2
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+n04
+  rotate: true
+  xy: 545, 31
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+n05
+  rotate: false
+  xy: 606, 111
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+n06
+  rotate: true
+  xy: 659, 2
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+n07
+  rotate: false
+  xy: 677, 116
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+n08
+  rotate: false
+  xy: 629, 116
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+n09
+  rotate: false
+  xy: 653, 116
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+n10
+  rotate: true
+  xy: 431, 11
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+n11
+  rotate: true
+  xy: 488, 16
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+n12
+  rotate: true
+  xy: 374, 10
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1

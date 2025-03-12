@@ -1,0 +1,128 @@
+﻿{
+    "version": "5-07-2019-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Taip",
+        "no": "Ne",
+        "confirm": "Ar norėtumėte, kad būtų leidžiamas garsas?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP}–{@maxRTP} %",
+        "paybackTitle": "Numatoma grąža",
+        "paybackBody": "Šio žaidimo ilgalaikė teoriškai numatoma grąža yra {RTP}.",
+        "hardCodeRTP": "85,00–93,00 %"
+    },
+    "title": "Everesto Viršūnė",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Žinynas",
+            "prizeTable": "PRIZŲ LENTELĖ",
+            "payTable": "Prizų lentelė",
+            "price": "Kaina",
+            "stake": "Statymas",
+            "balance": "Likutis",
+            "Gems": "Brangakmeniai",
+            "UpArrows": "Rodyklės aukštyn",
+            "RockFalls": "Uolienų griūtys",
+            "prizeDivision": "Prizų lygos",
+            "prizeValue": "Prizo vertė",
+            "approximatePrize": "Apytiksliai likę prizai",
+            "oddsPerPlay": "Žaidimo tikimybė",
+            "overAllOdds": "Per kiekvieną žaidimą galimybė laimėt prizą yra 1 iš {oddNum}",
+            "availablePrices": "Galimi kainų lygiai {prices}",
+            "gameName": "Everesto Viršūnė"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Žinynas",
+            "prizeTable": "PRIZŲ LENTELĖ",
+            "payTable": "Išmokų lentelė",
+            "price": "Kaina",
+            "stake": "Statymas",
+            "balance": "Likutis",
+            "Gems": "Brangakmeniai",
+            "UpArrows": "Rodyklės aukštyn",
+            "RockFalls": "Uolienų griūtys"
+        },
+        "audio":
+        {
+            "on": "Įjungti",
+            "off": "Išjungti",
+            "sound": "Garsas"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Klaida 29000\n\nĮvyko vidinė klaida.\nIŠEIKITE iš žaidimo ir paleiskite jį iš naujo.",
+        "lostConnection": "Nutrūko ryšys!"
+    },
+    "Game":
+    {
+        "demo": "BANDYTI ",
+        "button_buy": "ŽAISTI",
+        "button_try": "BANDYTI",
+        "button_retry": "BANDYTI DAR KARTĄ",
+        "button_continue": "TĘSTI",
+        "button_move2moneyGame": "PEREITI PRIE PINIGŲ",
+        "button_play": "KOPTI",
+        "button_play1": "ŽAISTI",
+        "button_autoPlay": "KOPTI AUTOMATIŠKAI",
+        "button_stop": "SUSTABDYTI",
+        "button_playAgain": "ŽAISTI DAR KARTĄ",
+        "button_MTMPlayAgain": "BANDYTI DAR KARTĄ",
+        "wager": "BILIETO KAINA",
+        "meter_wager": "BILIETO KAINA ",
+        "balance": "LIKUTIS ",
+        "wins": "LAIMĖJIMAS ",
+        "WINS": "LAIMĖJIMAI",
+        "wins_demo": "DEMONSTRACIJOS LAIMĖJIMAS ",
+        "message_nonWin": "SĖKMĖS\nKITĄ KARTĄ",
+        "message_buyWin": "LAIMĖJIMAS",
+        "message_tryWin": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS",
+        "message_anonymousTryWin": "DĖKOJAME, KAD ŽAIDĖTE!\nGALĖJOTE LAIMĖTI",
+        "simple_buywin": "SVEIKINAME! LAIMĖJAI",
+        "simple_trywin": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS",
+        "simple_anonymousTrywin": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS",
+        "message_close": "GERAI",
+        "button_exit": "IŠEITI",
+        "session_timeout_warning_exit_button": "IŠEITI",
+        "error_button_exit": "IŠEITI",
+        "warning_button_continue": "TĘSTI",
+        "warning_button_exitGame": "IŠEITI",
+        "warning_title": "ĮSPĖJIMAS",
+        "error_title": "KLAIDA",
+        "winUpTo":
+        {
+            "win_up_to": "LAIMĖK IKI ",
+            "win_up_to_mark": ""
+        },
+        "tutorial":
+        {
+            "tutorial_title": "KAIP ŽAISTI?",
+            "tutorial_content":
+            {
+                "tutorial_00": "Norėdami nustatyti alpinisto žingsnių skaičių, paspauskite KOPTI. {n} Alpinistui sustojus surinkite simbolius arba laimėkite prizą. {n} Surinkite bent 4 {C01} ir laimėkite prizą.",
+                "tutorial_01": "Sustokite ties {C02} ir surinksite {C02} bei pakilsite papildomais laiptais. {n} Sustokite ties {C03} ir surinksite {C03} bei nusileisite laiptais. {n} Surinkite 4 {C02} arba 4 {C03} ir laimėkite prizą. {n} ",
+                "tutorial_02": "Sustokite ties {C04} ir raskite rinkimo simbolį, papildomą kopimą arba momentinį prizą. {n} Sustokite ties {C05} ir aktyvuokite olos arba kompaso premiją. {n} Pasirinkite akmenį arba panaudokite kompasą ir laimėkite prizą arba rinkimo simbolį."
+            }
+        },
+        "meter_division": "|",
+        "buttonClose": "X",
+        "prizeLevel": "Prizo lygis",
+        "prizeValue": "Prizo vertė",
+        "paytableWager": "Bilieto kaina – ",
+        "prizeDescription": "Aprašas",
+        "Symbol": "Simbolis",
+        "wheelSpin": "ŽAISTI",
+        "pickBonusText": "PASIRINKITE AKMENĮ IR RASKITE PRIZĄ ARBA RINKIMO SIMBOLĮ",
+        "SPINS": "ĖJIMAI",
+        "SPIN": "ĖJIMAS",
+        "spinsLeft": "Likę kopimai",
+        "dressText": "Surinkite tam tikrą skaičių simbolių ir atrakinkite naujus veikėjus! \nSurinkti simboliai kaupiami žaidžiant žaidimus.",
+        "allUnlockedDressText": "Paspauskite, norėdami pasirinkti veikėją."
+    }
+}

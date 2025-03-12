@@ -1,0 +1,121 @@
+﻿{
+    "version": "5-07-2019-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyd?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "fra {@minRTP}% til {@maxRTP}%",
+        "paybackTitle": "Oppgitt gevinstandel",
+        "paybackBody": "For dette spillet er langsiktig, teoretisk forventet gevinstandel {RTP}.",
+        "hardCodeRTP": "87%"
+    },
+    "title": "Payout Peak",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hjelp",
+            "prizeTable": "GEVINSTTABELL",
+            "payTable": "Gevinsttabell",
+            "price": "Gevinst",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "Gems": "Edelstener",
+            "UpArrows": "Opp-piler",
+            "RockFalls": "Steinfall"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hjelp",
+            "prizeTable": "GEVINSTTABELL",
+            "payTable": "Gevinsttabell",
+            "price": "Gevinst",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "Gems": "Edelstener",
+            "UpArrows": "Opp-piler",
+            "RockFalls": "Steinfall"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Feil:29000\n\nDet har oppstått en feil.\nAvslutt og start spillet på nytt.",
+        "lostConnection": "Mistet tilkobling!"
+    },
+    "Game":
+    {
+        "demo": "PRØV ",
+        "button_buy": "KJØP",
+        "button_try": "PRØV",
+        "button_retry": "OK",
+        "button_continue": "FORTSETT",
+        "button_move2moneyGame": "SPILL MED PENGER",
+        "button_play": "KLATRE",
+        "button_play1": "SPILL",
+        "button_autoPlay": "AUTOKLATRE",
+        "button_stop": "STOPP",
+        "button_playAgain": "OK",
+        "button_MTMPlayAgain": "OK",
+        "wager": "PRIS",
+        "meter_wager": "PRIS ",
+        "balance": "SALDO ",
+        "wins": "GEVINST ",
+        "WINS": "GEVINSTER",
+        "wins_demo": "DEMOGEVINST ",
+        "message_nonWin": "BEKLAGER, INGEN PREMIE",
+        "message_buyWin": "GRATULERER!\nDU HAR VUNNET",
+        "message_tryWin": "HADDE DETTE VÆRT ET SPILL FOR \nEKTE PENGER HADDE DU VUNNET",
+        "message_anonymousTryWin": "HADDE DETTE VÆRT ET SPILL FOR \nEKTE PENGER HADDE DU VUNNET",
+        "simple_buywin": "TOTAL GEVINST",
+        "simple_trywin": "TOTAL DEMOGEVINST",
+        "simple_anonymousTrywin": "TOTAL DEMOGEVINST",
+        "message_close": "OK",
+        "button_exit": "AVSLUTT",
+        "session_timeout_warning_exit_button": "AVSLUTT",
+        "error_button_exit": "AVSLUTT",
+        "warning_button_continue": "FORTSETT",
+        "warning_button_exitGame": "AVSLUTT",
+        "warning_title": "ADVARSEL",
+        "error_title": "FEIL",
+        "winUpTo":
+        {
+            "win_up_to": "VINN OPPTIL ",
+            "win_up_to_mark": " !"
+        },
+        "tutorial":
+        {
+            "tutorial_title": "SLIK SPILLER DU",
+            "tutorial_content":
+            {
+                "tutorial_00": "Trykk på KLATRE for å avgjøre antall trinn for klatreren. {n} Samle symboler eller vinn en premie når klatreren stopper. {n} Samle 4 eller flere {C01} for å vinne en premie.",
+                "tutorial_01": "Stopp ved {C02} for å samle {C02} og klatre ytterligere trinn. {n} Stopp ved {C03} for å samle {C03} og riste ned trinnene. {n} Samle 4 {C02} eller 4 {C03} for å vinne en gevinst. {n} ",
+                "tutorial_02": "Stopp ved {C04} for å avdekke et samlesymbol, en ekstra klatring eller en umiddelbar premie. {n} Stopp ved {C05} for å aktivere hulebonusen eller kompassbonusen. {n} I hulebonusen velges en stein for å vinne en premie eller et samlesymbol. {n} Trykk på NAVIGER i kompassmodusen for å vinne en premie eller et samlesymbol! "
+            }
+        },
+        "meter_division": "|",
+        "buttonClose": "X",
+        "prizeLevel": "Premie",
+        "prizeValue": "Premie",
+        "paytableWager": "Billettpris: ",
+        "prizeDescription": "Beskrivelse",
+        "Symbol": "Symbol",
+        "wheelSpin": "NAVIGER",
+        "pickBonusText": "VELG EN STEIN FOR Å AVDEKKE EN PREMIE ELLER ET SAMLESYMBOL.",
+        "SPINS": "KLATRINGER",
+        "SPIN": "KLATRE",
+        "spinsLeft": "Klatringer igjen",
+        "dressText": "Samle et bestemt antall symboler for å åpne nye figurer\nSamlede symboler akkumuleres gjennom spillet.",
+        "allUnlockedDressText": "Trykk for å velge en figur."
+    }
+}

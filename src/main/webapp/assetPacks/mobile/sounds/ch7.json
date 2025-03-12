@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch7.m4a",
+    "ch7.mp3",
+    "ch7.ogg"
+  ],
+  "sprite": {
+    "prizeShuffle": [
+      0,
+      2196.2585034013605
+    ],
+    "grappling_RisingAlongWIthTheRope": [
+      3050,
+      885.3287981859407
+    ],
+    "prizeLand": [
+      4100,
+      2466.666666666667
+    ]
+  }
+}

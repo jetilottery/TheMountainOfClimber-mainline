@@ -1,0 +1,128 @@
+{
+    "version": "5-07-2019-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "van {@minRTP}% tot {@maxRTP}%",
+        "paybackTitle": "Verwachte uitbetalingspercentage",
+        "paybackBody": "Voor dit spel is het theoretisch verwachte uitbetalingspercentage op lange termijn {RTP}.",
+        "hardCodeRTP": "van 85,00% tot 93,00%"
+    },
+    "title": "Klim & Collect",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Help",
+            "prizeTable": "PRIJZENTABEL",
+            "payTable": "Prijzentabel",
+            "price": "Prijs",
+            "stake": "Inzet",
+            "balance": "Saldo",
+            "Gems": "Edelstenen",
+            "UpArrows": "Pijlen omhoog",
+            "RockFalls": "Vallende rotsen",
+            "prizeDivision": "Prijsverdeling",
+            "prizeValue": "Prijswaarde",
+            "approximatePrize": "Resterende prijzen bij benadering",
+            "oddsPerPlay": "Kansen per spel",
+            "overAllOdds": "Er is een algemene kans van 1 op {oddNum} om een prijs te winnen in elk spel",
+            "availablePrices": "Beschikbare prijspunten:{prices}",
+            "gameName": "Klim & Collect"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Help",
+            "prizeTable": "PRIJZENTABEL",
+            "payTable": "Uitbetalingstabel",
+            "price": "Prijs",
+            "stake": "Inzet",
+            "balance": "Saldo",
+            "Gems": "Edelstenen",
+            "UpArrows": "Pijlen omhoog",
+            "RockFalls": "Vallende rotsen"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fout:29000\n\nEr is een interne fout opgetreden.\nVERLAAT het spel en start het opnieuw op.",
+        "lostConnection": "Verbroken verbinding!"
+    },
+    "Game":
+    {
+        "demo": "",
+        "button_buy": "SPELEN",
+        "button_try": "PROBEREN",
+        "button_retry": "OPNIEUW PROBEREN",
+        "button_continue": "DOORGAAN",
+        "button_move2moneyGame": "SPELEN MET ECHT GELD",
+        "button_play": "KLIMMEN",
+        "button_play1": "SPELEN",
+        "button_autoPlay": "ONTHUL ALLES",
+        "button_stop": "STOPPEN",
+        "button_playAgain": "SPELEN",
+        "button_MTMPlayAgain": "PROBEREN",
+        "wager": "INZET",
+        "meter_wager": "INZET ",
+        "balance": "SALDO ",
+        "wins": "WINST ",
+        "WINS": "WINST",
+        "wins_demo": "WINST ",
+        "message_nonWin": "VOLGENDE KEER\nBETER",
+        "message_buyWin": "GEFELICITEERD\nMET JE PRIJS VAN",
+        "message_tryWin": "DANK VOOR HET SPELEN.\nJE HAD DE KANS OP",
+        "message_anonymousTryWin": "BEDANKT VOOR HET SPELEN!\nDIT HAD JE KUNNEN WINNEN:",
+        "simple_buywin": "TOTALE WINST",
+        "simple_trywin": "TOTALE DEMOWINST",
+        "simple_anonymousTrywin": "TOTALE DEMOWINST",
+        "message_close": "OK",
+        "button_exit": "AFSLUITEN",
+        "session_timeout_warning_exit_button": "AFSLUITEN",
+        "error_button_exit": "AFSLUITEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "AFSLUITEN",
+        "warning_title": "WAARSCHUWING",
+        "error_title": "FOUT",
+        "winUpTo":
+        {
+            "win_up_to": "WIN TOT ",
+            "win_up_to_mark": "!"
+        },
+        "tutorial":
+        {
+            "tutorial_title": "SPELUITLEG",
+            "tutorial_content":
+            {
+                "tutorial_00": "Druk op KLIMMEN om het aantal treden voor de klimmer te bepalen. {n} Verzamel symbolen of win een prijs wanneer de klimmer stopt. {n} Verzamel 4 of meer {C01} om een prijs te winnen.",
+                "tutorial_01": "Stop bij {C02} om {C02} te verzamelen en extra treden te beklimmen. {n} Stop bij {C03} om {C03} te verzamelen en treden naar beneden te vallen. {n} Verzamel 4 {C02} of 4 {C03} om een prijs te winnen. {n} ",
+                "tutorial_02": "Stop bij {C04} om een verzamelsymbool, een extra klim of een directe prijs te onthullen. {n} Stop bij {C05} om de grotbonus of kompasbonus te activeren. {n} Kies een rots of navigeer met het kompas om een prijs of een verzamelsymbool te winnen."
+            }
+        },
+        "meter_division": "|",
+        "buttonClose": "X",
+        "prizeLevel": "Prijsniveau",
+        "prizeValue": "Prijswaarde",
+        "paytableWager": "Inzet: ",
+        "prizeDescription": "Beschrijving",
+        "Symbol": "Symbool",
+        "wheelSpin": "NAVIGEREN",
+        "pickBonusText": "KIES EEN ROTS OM EEN PRIJS OF VERZAMELSYMBOOL TE ONTHULLEN",
+        "SPINS": "BEURTEN",
+        "SPIN": "BEURT",
+        "spinsLeft": "Resterende klimmen",
+        "dressText": "Verzamel een specifiek aantal symbolen om nieuwe personages te ontgrendelen! \nDe verzamelde symbolen blijven van spel naar spel behouden.",
+        "allUnlockedDressText": "Klik hier om een teken te selecteren."
+    }
+}

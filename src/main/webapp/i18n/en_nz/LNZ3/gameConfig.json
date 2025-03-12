@@ -1,0 +1,10 @@
+{
+    "showTutorialAtBeginning": true,
+    "enableAudioDialog": false,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque": false,
+    "unlockConditionNums": [0, 10, 20, 40],
+    "AUTOPLAY_DELAY_TIMER": 2200,
+    "consoleEnabledDuringPlay": true
+
+}

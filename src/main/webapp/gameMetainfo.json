@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "TheMountainOfClimber",
+    "id": "300-2172-001",
+    "framework": "jet",
+    "version": "1.0.26",
+    "studio": "interactive"
+  }
+}

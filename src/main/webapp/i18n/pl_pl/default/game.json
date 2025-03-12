@@ -1,0 +1,128 @@
+{
+    "version": "5-07-2019-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Tak",
+        "no": "Nie",
+        "confirm": "Czy włączyć dźwięk?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+        "hardCodeRTP": "od 85,00% do 93,00%"
+    },
+    "title": "Górki",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Zasady gry",
+            "prizeTable": "TABELA WYGRANYCH",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "Gems": "Klejnoty",
+            "UpArrows": "Strzałki w górę",
+            "RockFalls": "Spadające skały",
+            "prizeDivision": "Stopień wygranej",
+            "prizeValue": "Wartość wygranej",
+            "approximatePrize": "Pozostało do wygrania",
+            "oddsPerPlay": "Szansa na wygraną",
+            "overAllOdds": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {oddNum}.",
+            "availablePrices": "Dostępne punkty nagrody: {prices}",
+            "gameName": "Payout Peak"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Zasady gry",
+            "prizeTable": "TABELA WYGRANYCH",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "Gems": "Klejnoty",
+            "UpArrows": "Strzałki w górę",
+            "RockFalls": "Spadające skały"
+        },
+        "audio":
+        {
+            "on": "Wł.",
+            "off": "Wył.",
+            "sound": "Dźwięk"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Błąd: 29000\n\nWystąpił błąd wewnętrzny.\nWYJDŹ i uruchom ponownie grę.",
+        "lostConnection": "Utracono połączenie!"
+    },
+    "Game":
+    {
+        "demo": "DEMO ",
+        "button_buy": "PŁACĘ",
+        "button_try": "DEMO",
+        "button_retry": "GRAJ PONOWNIE",
+        "button_continue": "KONTYNUUJ",
+        "button_move2moneyGame": "GRAJ ZA PIENIĄDZE",
+        "button_play": "WSPINAJ SIĘ",
+        "button_play1": "ZAGRAJ",
+        "button_autoPlay": "AUTO WSPINANIE",
+        "button_stop": "STOP",
+        "button_playAgain": "GRAJ PONOWNIE",
+        "button_MTMPlayAgain": "SPRÓBUJ PONOWNIE",
+        "wager": "OPŁATA ZA LOS",
+        "meter_wager": "OPŁATA ZA LOS ",
+        "balance": "SALDO ",
+        "wins": "WYGRANA ",
+        "WINS": "WYGRANE",
+        "wins_demo": "WYGRANA DEMO ",
+        "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+        "message_buyWin": "GRATULACJE!\nTWOJA WYGRANA TO:",
+        "message_tryWin": "GRATULACJE!\nMOŻNA BYŁO WYGRAĆ",
+        "message_anonymousTryWin": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ",
+        "simple_buywin": "WYGRANA ŁĄCZNA",
+        "simple_trywin": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ",
+        "simple_anonymousTrywin": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ",
+        "message_close": "OK",
+        "button_exit": "WYJDŹ",
+        "session_timeout_warning_exit_button": "WYJDŹ",
+        "error_button_exit": "WYJDŹ",
+        "warning_button_continue": "KONTYNUUJ",
+        "warning_button_exitGame": "WYJDŹ",
+        "warning_title": "OSTRZEŻENIE",
+        "error_title": "BŁĄD",
+        "winUpTo":
+        {
+            "win_up_to": "WYGRAJ DO ",
+            "win_up_to_mark": " !"
+        },
+        "tutorial":
+        {
+            "tutorial_title": "ZASADY GRY",
+            "tutorial_content":
+            {
+                "tutorial_00": "Naciśnij przycisk WSPINAJ SIĘ, aby określić liczbę kroków alpinisty. {n} Zbierz symbole lub wygraj nagrodę po zatrzymaniu się alpinisty. {n} Zbierz co najmniej 4 {C01} , aby wygrać nagrodę.",
+                "tutorial_01": "Zatrzymaj się na {C02} , aby zebrać {C02} i wspiąć się dalej. {n} Zatrzymaj się na {C03} , aby zebrać {C03} i przesunąć się w dół. {n} Zbierz 4 {C02} lub 4 {C03} , aby wygrać nagrodę. {n} ",
+                "tutorial_02": "Zatrzymaj się na {C04} , aby odkryć symbol zebrania, dodatkową wspinaczkę lub natychmiastową nagrodę. {n} Zatrzymaj się na {C05} , aby uruchomić bonus jaskini lub bonus kompasu. {n} Wybierz kamień lub nawiguj za pomocą kompasu, aby wygrać nagrodę lub symbol zebrania."
+            }
+        },
+        "meter_division": "|",
+        "buttonClose": "X",
+        "prizeLevel": "Stopień wygranej",
+        "prizeValue": "Wartość wygranej",
+        "paytableWager": "Opłata za LOS: ",
+        "prizeDescription": "Opis",
+        "Symbol": "Symbol",
+        "wheelSpin": "NAWIGACJA",
+        "pickBonusText": "WYBIERZ KAMIEŃ, ABY ODKRYĆ NAGRODĘ LUB SYMBOL ZEBRANIA",
+        "SPINS": "TURY",
+        "SPIN": "TURA",
+        "spinsLeft": "Wspina się w lewo",
+        "dressText": "Zbierz określoną liczbę symbolów, aby odblokować nowe postacie! \nZebrane symbole są gromadzone podczas gier.",
+        "allUnlockedDressText": "Naciśnij, aby wybrać postać."
+    }
+}

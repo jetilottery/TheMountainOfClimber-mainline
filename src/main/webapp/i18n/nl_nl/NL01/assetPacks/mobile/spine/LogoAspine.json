@@ -1,0 +1,2323 @@
+{
+"skeleton": {
+	"hash": "qobgL101Hh1BgQYPqEflM0tBPRk",
+	"spine": "3.8.86",
+	"x": -364.31,
+	"y": -336.38,
+	"width": 683.67,
+	"height": 683.67,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "logo", "parent": "root" },
+	{ "name": "logoLight", "parent": "logo" },
+	{ "name": "logo2", "parent": "logo", "length": 83.08, "rotation": 97.43, "x": -12.55, "y": -106.38 },
+	{ "name": "$1 copy 2", "parent": "logo2", "rotation": -97.43, "x": 103.87, "y": -26.21 },
+	{ "name": "light01", "parent": "root", "x": -22.1, "y": 6.14 },
+	{ "name": "light02", "parent": "root" },
+	{ "name": "logoLight2", "parent": "root" },
+	{ "name": "logo3", "parent": "logo2", "length": 84.85, "rotation": -5.01, "x": 83.08 },
+	{ "name": "logo4", "parent": "logo3", "length": 137.83, "rotation": -7.39, "x": 84.85 },
+	{ "name": "logo5", "parent": "logo4", "length": 22.52, "rotation": 6.94, "x": -177.23, "y": -261.39 },
+	{ "name": "logo6", "parent": "logo5", "length": 35.73, "rotation": 0.51, "x": 22.52 },
+	{ "name": "logo7", "parent": "logo6", "length": 35.73, "x": 35.73 },
+	{ "name": "logo8", "parent": "logo7", "length": 33.37, "rotation": -2.49, "x": 35.73 },
+	{ "name": "bone", "parent": "root", "x": 5.27, "y": 100.17 },
+	{ "name": "TreasureChest00", "parent": "root", "y": -4.81 },
+	{ "name": "TreasureChest01", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest02", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest03", "parent": "TreasureChest02" },
+	{ "name": "TreasureChest04", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest06", "parent": "TreasureChest03" },
+	{ "name": "TreasureChest07", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest08", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest09", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest10", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest11", "parent": "TreasureChest00" },
+	{ "name": "TreasureChest05", "parent": "TreasureChest03" },
+	{ "name": "bone4", "parent": "root" },
+	{ "name": "mapIcon01", "parent": "bone4" },
+	{ "name": "mapIcon02", "parent": "mapIcon01" },
+	{ "name": "mapIcon03", "parent": "mapIcon01" },
+	{ "name": "flash01", "parent": "TreasureChest03", "x": -39.74, "y": -19.48 },
+	{ "name": "flash1", "parent": "TreasureChest03", "x": 18.77, "y": -21.69 },
+	{ "name": "flash02", "parent": "logo", "rotation": 0.79, "x": 172.22, "y": 72.86 },
+	{ "name": "flash2", "parent": "TreasureChest03", "x": -9.94, "y": -2.92 },
+	{ "name": "flash3", "parent": "logo", "x": -11.04, "y": 55.2 }
+],
+"slots": [
+	{ "name": "light01", "bone": "light01", "attachment": "light01" },
+	{ "name": "light02", "bone": "light02", "attachment": "light02" },
+	{ "name": "logoLight", "bone": "logoLight2", "attachment": "logoLight" },
+	{ "name": "logo", "bone": "logo", "attachment": "logo" },
+	{ "name": "$", "bone": "logoLight", "attachment": "$" },
+	{ "name": "$1 copy 2", "bone": "$1 copy 2", "attachment": "$1 copy 2" },
+	{ "name": "Layer 2", "bone": "TreasureChest01", "attachment": "Layer 2" },
+	{ "name": "Layer 3", "bone": "TreasureChest02", "attachment": "Layer 3" },
+	{ "name": "flag0001", "bone": "root", "attachment": "flag0001" },
+	{ "name": "flag0002", "bone": "root", "attachment": "flag0002" },
+	{ "name": "flag0003", "bone": "root", "attachment": "flag0003" },
+	{ "name": "flag0004", "bone": "root", "attachment": "flag0004" },
+	{ "name": "flag0005", "bone": "root", "attachment": "flag0005" },
+	{ "name": "Layer 925 copy", "bone": "TreasureChest03", "attachment": "Layer 925 copy" },
+	{ "name": "Layer 637 copy 2", "bone": "TreasureChest05", "attachment": "Layer 637 copy 2" },
+	{ "name": "Layer 3 copy 2", "bone": "TreasureChest06", "attachment": "Layer 3 copy 2" },
+	{ "name": "Layer 3 copy", "bone": "TreasureChest07", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 3 copy2", "bone": "TreasureChest08", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 3 copy3", "bone": "TreasureChest09", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 3 copy4", "bone": "TreasureChest10", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 3 copy5", "bone": "TreasureChest11", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 3 copy6", "bone": "TreasureChest04", "attachment": "Layer 3 copy" },
+	{ "name": "mapIcon03", "bone": "mapIcon01", "attachment": "mapIcon03" },
+	{ "name": "mapIcon02", "bone": "mapIcon02", "attachment": "mapIcon02" },
+	{ "name": "mapIcon01", "bone": "mapIcon03", "attachment": "mapIcon01" },
+	{ "name": "flash01", "bone": "flash01", "attachment": "flash01" },
+	{ "name": "flash1", "bone": "flash1", "attachment": "flash01" },
+	{ "name": "flash2", "bone": "flash2", "attachment": "flash01" },
+	{ "name": "flash02", "bone": "flash02", "attachment": "flash02" },
+	{ "name": "flash3", "bone": "flash3", "attachment": "flash02" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"$": {
+				"$": { "x": 145.64, "y": 78.62, "width": 69, "height": 64 }
+			},
+			"$1 copy 2": {
+				"$1 copy 2": { "x": -268.32, "y": -103.96, "width": 77, "height": 47 }
+			},
+			"Layer 2": {
+				"Layer 2": { "x": -10.17, "y": -31.53, "width": 128, "height": 119 }
+			},
+			"Layer 3": {
+				"Layer 3": { "x": -8.57, "y": -18.71, "width": 175, "height": 176 }
+			},
+			"Layer 3 copy": {
+				"Layer 3 copy": { "x": 28.26, "y": -74.28, "width": 35, "height": 30 }
+			},
+			"Layer 3 copy 2": {
+				"Layer 3 copy 2": { "x": -14.98, "y": -38.45, "width": 65, "height": 43 }
+			},
+			"Layer 3 copy2": {
+				"Layer 3 copy": { "x": 25.49, "y": -65.06, "width": 35, "height": 30 }
+			},
+			"Layer 3 copy3": {
+				"Layer 3 copy": { "x": -2.71, "y": -78.72, "scaleX": 1.1135, "scaleY": 1.1049, "width": 35, "height": 30 }
+			},
+			"Layer 3 copy4": {
+				"Layer 3 copy": { "x": -54.57, "y": -74.55, "width": 35, "height": 30 }
+			},
+			"Layer 3 copy5": {
+				"Layer 3 copy": { "x": -55.73, "y": -66.14, "width": 35, "height": 30 }
+			},
+			"Layer 3 copy6": {
+				"Layer 3 copy": { "x": -57.87, "y": -57.1, "width": 35, "height": 30 }
+			},
+			"Layer 637 copy 2": {
+				"Layer 637 copy 2": { "x": -11.78, "y": -37.94, "width": 300, "height": 140 }
+			},
+			"Layer 925 copy": {
+				"Layer 925 copy": { "x": 10.29, "y": -16.8, "width": 200, "height": 180 }
+			},
+			"flag0001": {
+				"flag0001": { "x": 132.94, "y": -4.98, "width": 150, "height": 150 }
+			},
+			"flag0002": {
+				"flag0002": { "x": 132.94, "y": -4.98, "width": 150, "height": 150 }
+			},
+			"flag0003": {
+				"flag0003": { "x": 132.94, "y": -4.98, "width": 150, "height": 150 }
+			},
+			"flag0004": {
+				"flag0004": { "x": 132.94, "y": -4.98, "width": 150, "height": 150 }
+			},
+			"flag0005": {
+				"flag0005": { "x": 132.94, "y": -4.98, "width": 150, "height": 150 }
+			},
+			"flash01": {
+				"flash01": { "x": -4.1, "y": 0.93, "width": 100, "height": 100 }
+			},
+			"flash02": {
+				"flash02": { "x": -0.19, "y": -1.63, "rotation": 7.94, "width": 100, "height": 100 }
+			},
+			"flash1": {
+				"flash01": { "x": -1.25, "y": -0.59, "scaleX": 0.8288, "scaleY": 0.8288, "width": 100, "height": 100 }
+			},
+			"flash2": {
+				"flash01": { "x": -2.27, "y": -0.12, "width": 100, "height": 100 }
+			},
+			"flash3": {
+				"flash02": { "x": 0.49, "y": 1.22, "scaleX": 1.1965, "scaleY": 1.1965, "width": 100, "height": 100 }
+			},
+			"light01": {
+				"light01": { "x": -0.37, "y": -0.68, "rotation": 3.05, "width": 650, "height": 650 }
+			},
+			"light02": {
+				"light02": { "x": -27.5, "y": 15.66, "width": 453, "height": 445 }
+			},
+			"logo": {
+				"logo": {
+					"type": "mesh",
+					"uvs": [ 1, 0.62269, 1, 0.72934, 1, 0.82237, 1, 0.92674, 1, 1, 0.93737, 1, 0.88136, 1, 0.53571, 1, 0, 1, 0, 0, 1, 0, 0.51795, 0.75884, 0.51385, 0.64085, 0.50292, 0.4026, 0.50566, 0.49336, 0.50975, 0.25965, 0.52205, 0.05544, 0.52752, 0.90405, 0.93191, 0.90405, 0.93327, 0.80422, 0.92781, 0.71119, 0.92644, 0.62043, 0.87726, 0.61816, 0.87316, 0.6885, 0.87316, 0.77699, 0.87726, 0.85413, 0.88136, 0.92447 ],
+					"triangles": [ 20, 23, 21, 21, 23, 22, 20, 21, 0, 23, 12, 22, 21, 10, 0, 21, 22, 10, 22, 15, 10, 20, 24, 23, 19, 24, 20, 19, 1, 2, 19, 20, 1, 20, 0, 1, 18, 2, 3, 26, 25, 18, 18, 19, 2, 18, 25, 19, 25, 24, 19, 5, 3, 4, 6, 26, 5, 26, 18, 5, 5, 18, 3, 6, 7, 26, 22, 13, 15, 10, 15, 16, 13, 9, 15, 15, 9, 16, 16, 9, 10, 8, 14, 12, 14, 9, 13, 14, 8, 9, 12, 14, 22, 22, 14, 13, 8, 17, 7, 7, 25, 26, 7, 17, 25, 8, 11, 17, 8, 12, 11, 17, 24, 25, 17, 11, 24, 24, 11, 23, 11, 12, 23 ],
+					"vertices": [ 3, 9, -54.25, -287.19, 8.7E-4, 12, 60.34, -41.34, 0.10967, 13, 26.38, -40.23, 0.88946, 3, 11, 59.63, -39.75, 0.1174, 12, 23.9, -39.75, 0.63652, 13, -10.09, -40.23, 0.24608, 4, 10, 50.71, -38.12, 0.02553, 11, 27.85, -38.37, 0.61326, 12, -7.88, -38.37, 0.36107, 13, -41.9, -40.23, 1.3E-4, 3, 10, 15.03, -36.89, 0.63257, 11, -7.81, -36.82, 0.34886, 12, -43.54, -36.82, 0.01857, 2, 10, -10.01, -36.02, 0.96756, 11, -32.85, -35.73, 0.03244, 2, 3, -70.41, -224.28, 4.1E-4, 10, -8.78, -0.47, 0.99959, 4, 3, -66.29, -192.73, 0.06547, 10, -7.68, 31.32, 0.73414, 11, -29.92, 31.59, 0.18565, 12, -65.65, 31.59, 0.01474, 5, 3, -40.9, 1.94, 0.98523, 8, -123.68, -8.89, 3.2E-4, 10, -0.92, 227.53, 0.00453, 11, -21.39, 227.74, 0.00707, 12, -57.12, 227.74, 0.00285, 4, 3, -1.54, 303.67, 0.5478, 8, -110.83, 295.12, 0.3361, 9, -232.01, 267.5, 0.11609, 13, -102.65, 527.77, 2.0E-5, 4, 3, 337.58, 259.44, 0.06686, 8, 230.86, 280.68, 0.24542, 9, 108.7, 297.13, 0.68766, 13, 239.35, 527.77, 6.0E-5, 2, 9, 157.91, -268.74, 0.30079, 13, 239.35, -40.23, 0.69921, 2, 3, 42.19, 1.28, 0.99951, 8, -40.85, -2.3, 4.9E-4, 7, 3, 82.51, -1.63, 0.52689, 8, -0.43, -1.68, 0.47225, 9, -84.36, -12.63, 8.0E-5, 10, 122.27, 235.71, 2.0E-5, 11, 101.86, 234.8, 9.0E-5, 12, 66.13, 234.8, 1.5E-4, 13, 20.18, 235.9, 5.2E-4, 3, 3, 164.1, -6.01, 7.0E-5, 8, 81.24, 1.09, 0.75437, 9, -3.72, 0.61, 0.24556, 2, 3, 133.12, -3.54, 2.0E-5, 8, 50.16, 0.85, 0.99998, 1, 9, 45.32, 0.98, 1, 2, 9, 115.5, 0.08, 0.99987, 13, 220.38, 231.25, 1.3E-4, 5, 3, -7.76, 2.32, 0.99918, 8, -90.7, -5.63, 1.0E-5, 10, 32.04, 231.06, 2.9E-4, 11, 11.6, 230.96, 4.3E-4, 12, -24.13, 230.96, 9.0E-5, 4, 3, -37.47, -225.45, 0.00143, 8, -100.39, -235.12, 2.0E-5, 10, 24.12, 1.5, 0.37591, 11, 1.62, 1.48, 0.62264, 2, 11, 35.7, -0.78, 0.50195, 12, -0.03, -0.78, 0.49805, 6, 3, 28.24, -231.67, 6.1E-4, 8, -34.39, -235.58, 1.9E-4, 9, -87.96, -248.96, 5.0E-5, 10, 90.12, 1.55, 3.0E-5, 12, 31.89, 0.94, 0.79618, 13, -3.88, 0.78, 0.20294, 5, 3, 59.12, -234.92, 8.4E-4, 8, -3.35, -236.11, 6.6E-4, 9, -57.1, -245.5, 5.2E-4, 12, 62.93, 0.37, 8.7E-4, 13, 27.16, 1.55, 0.99712, 7, 3, 63.5, -207.32, 0.0334, 8, -1.39, -208.23, 0.02543, 9, -58.75, -217.6, 0.02247, 10, 122.91, 29.15, 9.0E-5, 11, 100.65, 28.25, 0.00267, 12, 64.92, 28.25, 0.07776, 13, 27.94, 29.49, 0.83819, 7, 3, 39.95, -201.9, 0.05034, 8, -25.33, -204.89, 0.02033, 9, -82.91, -217.36, 0.009, 10, 98.95, 32.31, 0.00397, 11, 76.72, 31.62, 0.02063, 12, 40.99, 31.62, 0.33608, 13, 3.88, 31.82, 0.55965, 7, 3, 9.94, -197.98, 0.06475, 8, -55.57, -203.62, 0.01114, 9, -113.06, -219.98, 0.00178, 10, 68.7, 33.35, 0.03602, 11, 46.48, 32.93, 0.23309, 12, 10.75, 32.93, 0.5294, 13, -26.38, 31.82, 0.12381, 6, 3, -16.52, -196.88, 0.0663, 8, -82.03, -204.83, 0.004, 10, 42.25, 31.93, 0.15412, 11, 20.02, 31.75, 0.58148, 12, -15.71, 31.75, 0.17353, 13, -52.77, 29.49, 0.02057, 6, 3, -40.68, -196.08, 0.06398, 8, -106.16, -206.14, 6.7E-4, 10, 18.13, 30.43, 0.47123, 11, -4.11, 30.47, 0.4275, 12, -39.84, 30.47, 0.03559, 13, -76.82, 27.16, 0.00104 ],
+					"hull": 11,
+					"edges": [ 16, 18, 18, 20, 14, 16, 8, 10, 0, 20, 10, 12, 12, 14, 6, 8, 4, 6, 0, 2, 2, 4 ],
+					"width": 568,
+					"height": 342
+				}
+			},
+			"logoLight": {
+				"logoLight": { "x": -29.47, "y": 17.75, "width": 582, "height": 439 }
+			},
+			"mapIcon01": {
+				"mapIcon01": { "x": -11.54, "y": -29.49, "width": 120, "height": 120 }
+			},
+			"mapIcon02": {
+				"mapIcon02": { "x": -12.82, "y": -51.67, "width": 120, "height": 120 }
+			},
+			"mapIcon03": {
+				"mapIcon03": { "x": -12.82, "y": -62.35, "width": 120, "height": 120 }
+			}
+		}
+	}
+],
+"animations": {
+	"01LogoA": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffff38" },
+					{ "time": 1.4333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.7667, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff25" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.8333, "name": null },
+					{ "time": 1.8667, "name": null },
+					{ "time": 1.9, "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff42" },
+					{ "time": 0.9333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.4, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff0d" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": "flash02" },
+					{ "time": 1.5, "name": "flash02" },
+					{ "time": 1.5667, "name": null }
+				]
+			},
+			"light01": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "light01" }
+				]
+			},
+			"logoLight": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff4e" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff2f" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "logoLight" },
+					{ "time": 0.6667, "name": "logoLight" },
+					{ "time": 1.3333, "name": "logoLight" },
+					{ "time": 2.6667, "name": "logoLight" }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.6, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 1.9333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"light01": {
+				"rotate": [
+					{},
+					{ "time": 1.3333, "angle": 180 },
+					{ "time": 2.6667 }
+				]
+			},
+			"$1 copy 2": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"logoLight": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"logo": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 1.04, "y": 1.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"logo4": {
+				"rotate": [
+					{}
+				]
+			},
+			"logo8": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				]
+			},
+			"logo7": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667, "x": 0.97, "y": -0.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5 }
+				]
+			},
+			"logo2": {
+				"translate": [
+					{}
+				]
+			},
+			"flash02": {
+				"rotate": [
+					{ "time": 1.3333 },
+					{ "time": 1.6, "angle": -91.57 },
+					{ "time": 1.8333, "angle": -166.87 }
+				],
+				"scale": [
+					{ "time": 1.3333, "x": 0.365, "y": 0.365 },
+					{ "time": 1.4 },
+					{ "time": 1.6, "x": 1.195, "y": 1.195 },
+					{ "time": 1.8333, "x": 0.654, "y": 0.654 }
+				]
+			},
+			"flash3": {
+				"rotate": [
+					{ "time": 0.8333 },
+					{ "time": 1.1667, "angle": -83.36 },
+					{ "time": 1.5, "angle": -170.42 }
+				],
+				"translate": [
+					{ "time": 0.8333, "curve": "stepped" },
+					{ "time": 1.1667 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 0.296, "y": 0.296 },
+					{ "time": 0.9333 },
+					{ "time": 1.1667, "x": 1.743, "y": 1.743 },
+					{ "time": 1.3333, "x": 1.364, "y": 1.364 },
+					{ "time": 1.5, "x": 0.786, "y": 0.786 }
+				]
+			}
+		}
+	},
+	"02LogoB": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff42" },
+					{ "time": 0.9333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.4, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff0d" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": "flash02" },
+					{ "time": 1.5, "name": "flash02" },
+					{ "time": 1.5667, "name": null }
+				]
+			},
+			"light01": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff4e" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff2f" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "logoLight" },
+					{ "time": 0.6667, "name": "logoLight" },
+					{ "time": 1.3333, "name": "logoLight" },
+					{ "time": 2.6667, "name": "logoLight" }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light01": {
+				"rotate": [
+					{},
+					{ "time": 1.3333, "angle": 180 },
+					{ "time": 2.6667 }
+				]
+			},
+			"logo": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 1.04, "y": 1.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"flash3": {
+				"rotate": [
+					{ "time": 0.8333 },
+					{ "time": 1.1667, "angle": -83.36 },
+					{ "time": 1.5, "angle": -170.42 }
+				],
+				"translate": [
+					{ "time": 0.8333, "curve": "stepped" },
+					{ "time": 1.1667 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 0.296, "y": 0.296 },
+					{ "time": 0.9333 },
+					{ "time": 1.1667, "x": 1.743, "y": 1.743 },
+					{ "time": 1.3333, "x": 1.364, "y": 1.364 },
+					{ "time": 1.5, "x": 0.786, "y": 0.786 }
+				]
+			}
+		}
+	},
+	"03Win02A": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"color": [
+					{ "color": "ffffff67", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "fcfae8ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "color": "ffffff67" }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light01": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.6667 }
+				]
+			},
+			"light02": {
+				"translate": [
+					{ "x": 18.42, "y": -6.14 }
+				],
+				"scale": [
+					{ "x": 0.737, "y": 0.737, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": 0.877, "y": 0.877, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "x": 0.737, "y": 0.737 }
+				]
+			}
+		}
+	},
+	"04TreasureChest01": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"color": [
+					{ "color": "fff687ff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"color": [
+					{ "color": "fbe4aaff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light01": {
+				"rotate": [
+					{},
+					{ "time": 1.5, "angle": 180 },
+					{ "time": 3 }
+				],
+				"translate": [
+					{ "x": 12.41, "y": -33.51, "curve": "stepped" },
+					{ "time": 3, "x": 12.41, "y": -33.51 }
+				],
+				"scale": [
+					{ "x": 0.546, "y": 0.546, "curve": "stepped" },
+					{ "time": 3, "x": 0.546, "y": 0.546 }
+				]
+			},
+			"light02": {
+				"translate": [
+					{ "x": 3.2, "y": -38.4 },
+					{ "time": 0.6667, "x": 9.88, "y": -36.92 },
+					{ "time": 1.3333, "x": 3.2, "y": -38.4 },
+					{ "time": 2.1667, "x": 9.88, "y": -36.92 },
+					{ "time": 3, "x": 3.2, "y": -38.4 }
+				],
+				"scale": [
+					{ "x": 0.478, "y": 0.478 },
+					{ "time": 0.6667, "x": 0.45, "y": 0.45 },
+					{ "time": 1.3333, "x": 0.478, "y": 0.478 },
+					{ "time": 2.1667, "x": 0.532, "y": 0.532 },
+					{ "time": 3, "x": 0.478, "y": 0.478 }
+				]
+			},
+			"TreasureChest01": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.3667, "curve": "stepped" },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1, "curve": "stepped" },
+					{ "time": 1.3, "curve": "stepped" },
+					{ "time": 1.6, "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "y": -9.56 }
+				]
+			}
+		}
+	},
+	"05TreasureChest02": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff85" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff74" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": "Layer 3 copy" },
+					{ "time": 1.1667, "name": "Layer 3 copy" },
+					{ "time": 1.8333, "name": "Layer 3 copy" },
+					{ "time": 2.6667, "name": "Layer 3 copy" }
+				]
+			},
+			"Layer 637 copy 2": {
+				"color": [
+					{ "color": "ffffff81" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff7c" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff7c" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff7d" },
+					{ "time": 2.3333, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff7a" }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": "Layer 925 copy" },
+					{ "time": 2.6667, "name": "Layer 925 copy" }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"color": [
+					{ "color": "ffffff38" },
+					{ "time": 0.1667, "color": "ffffffdf" },
+					{ "time": 0.3333, "color": "ffffff3b" },
+					{ "time": 0.5333, "color": "ffffffdf" },
+					{ "time": 0.6667, "color": "ffffff3b" },
+					{ "time": 0.8667, "color": "ffffffdf" },
+					{ "time": 1, "color": "ffffff3b" },
+					{ "time": 1.2, "color": "ffffffdf" },
+					{ "time": 1.3333, "color": "ffffff3b" },
+					{ "time": 1.5333, "color": "ffffffdf" },
+					{ "time": 1.7, "color": "ffffff3b" },
+					{ "time": 1.8667, "color": "ffffffdf" },
+					{ "time": 2.0333, "color": "ffffff3b" },
+					{ "time": 2.2, "color": "ffffffdf" },
+					{ "time": 2.3667, "color": "ffffff3b" },
+					{ "time": 2.5333, "color": "ffffffdf" },
+					{ "time": 2.6667, "color": "ffffff3b" }
+				],
+				"attachment": [
+					{ "name": "flash01" }
+				]
+			},
+			"flash1": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff75" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff87" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff7b" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff77" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "flash01" }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": "flash01" }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"color": [
+					{ "color": "fff687ff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"color": [
+					{ "color": "fbe4aa83" },
+					{ "time": 0.6667, "color": "fff678ff" },
+					{ "time": 1.3333, "color": "fbe4aa83" },
+					{ "time": 2, "color": "fff678ff" },
+					{ "time": 2.6667, "color": "fbe4aa83" }
+				],
+				"attachment": [
+					{ "name": "light02" }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light01": {
+				"rotate": [
+					{},
+					{ "time": 1.3333, "angle": 180 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "x": 12.41, "y": -33.51, "curve": "stepped" },
+					{ "time": 2.6667, "x": 12.41, "y": -33.51 }
+				],
+				"scale": [
+					{ "x": 0.546, "y": 0.546, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0.546, "y": 0.546 }
+				]
+			},
+			"light02": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "x": 11.17, "y": -32.27, "curve": "stepped" },
+					{ "time": 1.3333, "x": 11.17, "y": -32.27, "curve": "stepped" },
+					{ "time": 2.6667, "x": 11.17, "y": -32.27 }
+				],
+				"scale": [
+					{ "x": 0.608, "y": 0.608 },
+					{ "time": 0.6667, "x": 0.709, "y": 0.709 },
+					{ "time": 1.3333, "x": 0.608, "y": 0.608 },
+					{ "time": 2, "x": 0.709, "y": 0.709 },
+					{ "time": 2.6667, "x": 0.608, "y": 0.608 }
+				]
+			},
+			"TreasureChest03": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1333 },
+					{ "time": 1.2667, "y": 5.19 },
+					{ "time": 1.3667, "x": -0.74, "y": -4.45 },
+					{ "time": 1.4333 },
+					{ "time": 1.5667, "y": 5.19 },
+					{ "time": 1.6667, "x": -0.74, "y": -4.45 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1333 },
+					{ "time": 1.2667, "y": 1.022 },
+					{ "time": 1.3667, "x": 1.052, "y": 1.009 },
+					{ "time": 1.4333 },
+					{ "time": 1.5667, "y": 1.022 },
+					{ "time": 1.6667, "x": 1.052, "y": 1.009 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest05": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest04": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.3333, "angle": -1.84 },
+					{ "time": 1.4, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.4 },
+					{ "time": 1.5, "x": 0.45, "y": -0.89 },
+					{ "time": 1.6667, "x": -0.22, "y": 1.34 },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.4, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest10": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.2667, "x": -0.45, "y": -0.89 },
+					{ "time": 1.3333 },
+					{ "time": 1.4, "x": -1.78, "y": -0.89 },
+					{ "time": 1.5 },
+					{ "time": 1.5667, "x": -0.89 },
+					{ "time": 1.6667, "x": -1.78 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest11": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.2667, "y": 1.34 },
+					{ "time": 1.3, "x": -0.45 },
+					{ "time": 1.4, "x": -1.56, "y": 1.34 },
+					{ "time": 1.5 },
+					{ "time": 1.6333, "x": -2.23 },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest09": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.3333, "angle": 7.48 },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.3333, "x": -7.14, "y": 4.91 },
+					{ "time": 1.4333 },
+					{ "time": 1.5667, "y": 6.69 },
+					{ "time": 1.6667 },
+					{ "time": 1.7667, "x": 0.45, "y": 4.46 },
+					{ "time": 1.8333 },
+					{ "time": 1.9, "x": -0.45, "y": 4.46 },
+					{ "time": 2.0333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest08": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.2667, "x": 3.57, "y": 0.36 },
+					{ "time": 1.3333, "x": 2.23, "y": 1.34 },
+					{ "time": 1.4333, "x": 3.03, "y": -0.18 },
+					{ "time": 1.5 },
+					{ "time": 1.6, "x": 4.46, "y": 3.57 },
+					{ "time": 1.6667, "x": 2.23 },
+					{ "time": 1.7667, "x": 0.45, "y": 6.24 },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"TreasureChest07": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667 },
+					{ "time": 1.2667, "angle": 1.2 },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.5 },
+					{ "time": 1.6667, "x": 3.57 },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.5, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 1.8333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "y": -9.56 }
+				]
+			},
+			"flash01": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -13.33 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "angle": -18.07 },
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "angle": -19.18 },
+					{ "time": 1 },
+					{ "time": 1.1667, "angle": -20.5 },
+					{ "time": 1.3333 },
+					{ "time": 1.5, "angle": -47.72 },
+					{ "time": 1.6667 },
+					{ "time": 1.8333, "angle": -44.31 },
+					{ "time": 2 },
+					{ "time": 2.1667, "angle": -20.6 },
+					{ "time": 2.3333 },
+					{ "time": 2.5, "angle": -35.98 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 2, "curve": "stepped" },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 0.794, "y": 0.794 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "x": 0.796, "y": 0.796 },
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 0.859, "y": 0.859 },
+					{ "time": 1 },
+					{ "time": 1.1667, "x": 0.818, "y": 0.818 },
+					{ "time": 1.3333 },
+					{ "time": 1.5, "x": 0.619, "y": 0.619 },
+					{ "time": 1.6667 },
+					{ "time": 1.8333, "x": 0.637, "y": 0.637 },
+					{ "time": 2 },
+					{ "time": 2.1667, "x": 0.55, "y": 0.55 },
+					{ "time": 2.3333 },
+					{ "time": 2.5, "x": 0.605, "y": 0.605 },
+					{ "time": 2.6667 }
+				]
+			},
+			"flash1": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": -13.94 },
+					{ "time": 0.2667 },
+					{ "time": 0.4333, "angle": -14.37 },
+					{ "time": 0.5333 },
+					{ "time": 0.6667, "angle": -20.57 },
+					{ "time": 0.8 },
+					{ "time": 0.9333, "angle": -15.83 },
+					{ "time": 1.0667 },
+					{ "time": 1.2333, "angle": -26.89 },
+					{ "time": 1.3333 },
+					{ "time": 1.4667, "angle": -28.6 },
+					{ "time": 1.6 },
+					{ "time": 1.7333, "angle": -27.52 },
+					{ "time": 1.8667 },
+					{ "time": 2, "angle": -31.6 },
+					{ "time": 2.1333 },
+					{ "time": 2.2667, "angle": -38.26 },
+					{ "time": 2.4 },
+					{ "time": 2.5333, "angle": -37.3 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2667, "curve": "stepped" },
+					{ "time": 0.5333, "curve": "stepped" },
+					{ "time": 0.8, "curve": "stepped" },
+					{ "time": 1.0667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.6, "curve": "stepped" },
+					{ "time": 1.8667, "curve": "stepped" },
+					{ "time": 2.1333, "curve": "stepped" },
+					{ "time": 2.4, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1333, "x": 0.63, "y": 0.63 },
+					{ "time": 0.2667 },
+					{ "time": 0.4, "x": 0.598, "y": 0.598 },
+					{ "time": 0.5333 },
+					{ "time": 0.6667, "x": 0.634, "y": 0.634 },
+					{ "time": 0.8 },
+					{ "time": 0.9333, "x": 0.703, "y": 0.703 },
+					{ "time": 1.0667 },
+					{ "time": 1.2333, "x": 0.552, "y": 0.552 },
+					{ "time": 1.3333 },
+					{ "time": 1.4667, "x": 0.792, "y": 0.792 },
+					{ "time": 1.6 },
+					{ "time": 1.7333, "x": 0.612, "y": 0.612 },
+					{ "time": 1.8667 },
+					{ "time": 2, "x": 0.665, "y": 0.665 },
+					{ "time": 2.1333 },
+					{ "time": 2.2667, "x": 0.671, "y": 0.671 },
+					{ "time": 2.4 },
+					{ "time": 2.5333, "x": 0.585, "y": 0.585 },
+					{ "time": 2.6667 }
+				]
+			},
+			"flash2": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 2, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 2, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 0.51, "y": 0.51 },
+					{ "time": 0.6667 },
+					{ "time": 1, "x": 0.435, "y": 0.435 },
+					{ "time": 1.3333 },
+					{ "time": 1.6667, "x": 0.534, "y": 0.534 },
+					{ "time": 2 },
+					{ "time": 2.3333, "x": 0.468, "y": 0.468 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	},
+	"07BonusWinLight": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "light01" }
+				]
+			},
+			"light02": {
+				"color": [
+					{ "color": "feff97ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "fff174ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "color": "feff97ff" }
+				],
+				"attachment": [
+					{ "name": "light02" }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light01": {
+				"rotate": [
+					{},
+					{ "time": 0.8333, "angle": 180 },
+					{ "time": 1.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.8333, "x": 1.323, "y": 1.323 },
+					{ "time": 1.6667 }
+				]
+			},
+			"light02": {
+				"translate": [
+					{ "x": 18.42, "y": -6.14 }
+				]
+			}
+		}
+	},
+	"08map01": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": "mapIcon01" }
+				]
+			}
+		},
+		"bones": {
+			"mapIcon03": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "y": 5.89, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": -0.42, "y": -2.95 },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 1.3333 }
+				]
+			},
+			"mapIcon02": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": -1.68, "y": -10.53, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 2.53, "y": 8.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 0.815, "y": 0.815, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 1.181, "y": 1.181, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333 }
+				]
+			},
+			"mapIcon01": {
+				"scale": [
+					{ "x": 1.036, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 0.987 },
+					{ "time": 0.3333, "x": 1.036, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "x": 0.987, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0.987 }
+				]
+			}
+		}
+	},
+	"09map02": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"10flag": {
+		"slots": {
+			"$": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"$1 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 637 copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 925 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flag0001": {
+				"attachment": [
+					{ "name": "flag0001" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"flag0002": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1333, "name": "flag0002" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"flag0003": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2667, "name": "flag0003" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"flag0004": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4, "name": "flag0004" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"flag0005": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5333, "name": "flag0005" }
+				]
+			},
+			"flash01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"flash3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"logoLight": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mapIcon03": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "x": 137.25, "y": 9.75 }
+				],
+				"scale": [
+					{ "x": -1 }
+				]
+			}
+		}
+	}
+}
+}

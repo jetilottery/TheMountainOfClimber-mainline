@@ -1,0 +1,361 @@
+{"frames": {
+
+"PointerLight02_0001.png":
+{
+	"frame": {"x":1247,"y":1356,"w":183,"h":205},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":21,"w":183,"h":205},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0002.png":
+{
+	"frame": {"x":1059,"y":1338,"w":186,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":186,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0003.png":
+{
+	"frame": {"x":683,"y":1511,"w":186,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":15,"w":186,"h":210},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0004.png":
+{
+	"frame": {"x":493,"y":1511,"w":188,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":13,"w":188,"h":211},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0005.png":
+{
+	"frame": {"x":871,"y":1338,"w":186,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":13,"w":186,"h":209},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0006.png":
+{
+	"frame": {"x":1454,"y":1356,"w":177,"h":207},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":15,"w":177,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0007.png":
+{
+	"frame": {"x":871,"y":1549,"w":176,"h":201},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":23,"w":176,"h":201},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0008.png":
+{
+	"frame": {"x":1074,"y":1547,"w":179,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":26,"w":179,"h":200},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0009.png":
+{
+	"frame": {"x":1663,"y":1356,"w":179,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":28,"w":179,"h":198},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0010.png":
+{
+	"frame": {"x":1622,"y":1556,"w":182,"h":198},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":28,"w":182,"h":198},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0011.png":
+{
+	"frame": {"x":1749,"y":1012,"w":180,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":29,"w":180,"h":195},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0012.png":
+{
+	"frame": {"x":1822,"y":1556,"w":181,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":27,"w":181,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0013.png":
+{
+	"frame": {"x":1439,"y":1541,"w":181,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":26,"w":181,"h":199},
+	"sourceSize": {"w":240,"h":240}
+},
+"PointerLight02_0014.png":
+{
+	"frame": {"x":1255,"y":1541,"w":182,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":24,"w":182,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"TreasureChestLight_0001.png":
+{
+	"frame": {"x":519,"y":1340,"w":216,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":16,"w":216,"h":169},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0002.png":
+{
+	"frame": {"x":1760,"y":838,"w":220,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":16,"w":220,"h":169},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0003.png":
+{
+	"frame": {"x":765,"y":994,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0004.png":
+{
+	"frame": {"x":1,"y":1447,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0005.png":
+{
+	"frame": {"x":1,"y":1620,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0006.png":
+{
+	"frame": {"x":765,"y":1166,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0007.png":
+{
+	"frame": {"x":247,"y":1447,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0008.png":
+{
+	"frame": {"x":247,"y":1620,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0009.png":
+{
+	"frame": {"x":1268,"y":494,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0010.png":
+{
+	"frame": {"x":1011,"y":994,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0011.png":
+{
+	"frame": {"x":1011,"y":1166,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0012.png":
+{
+	"frame": {"x":1268,"y":840,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0013.png":
+{
+	"frame": {"x":1760,"y":494,"w":243,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":243,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0014.png":
+{
+	"frame": {"x":1760,"y":666,"w":243,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":243,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0015.png":
+{
+	"frame": {"x":1514,"y":840,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0016.png":
+{
+	"frame": {"x":1257,"y":1012,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0017.png":
+{
+	"frame": {"x":1503,"y":1012,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0018.png":
+{
+	"frame": {"x":1257,"y":1184,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0019.png":
+{
+	"frame": {"x":1268,"y":667,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0020.png":
+{
+	"frame": {"x":1514,"y":494,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0021.png":
+{
+	"frame": {"x":1514,"y":667,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0022.png":
+{
+	"frame": {"x":519,"y":994,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0023.png":
+{
+	"frame": {"x":519,"y":1167,"w":244,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":14,"w":244,"h":171},
+	"sourceSize": {"w":300,"h":200}
+},
+"TreasureChestLight_0024.png":
+{
+	"frame": {"x":1503,"y":1184,"w":244,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":15,"w":244,"h":170},
+	"sourceSize": {"w":300,"h":200}
+},
+"Wind_0001.png":
+{
+	"frame": {"x":1,"y":724,"w":516,"h":721},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":858,"y":22,"w":516,"h":721},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Wind_0002.png":
+{
+	"frame": {"x":1267,"y":1,"w":491,"h":727},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":681,"y":27,"w":491,"h":727},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Wind_0003.png":
+{
+	"frame": {"x":537,"y":508,"w":484,"h":729},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":502,"y":32,"w":484,"h":729},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Wind_0004.png":
+{
+	"frame": {"x":537,"y":1,"w":505,"h":728},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":37,"w":505,"h":728},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Wind_0005.png":
+{
+	"frame": {"x":1,"y":1,"w":534,"h":721},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":43,"w":534,"h":721},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"animations": {
+	"PointerLight02": ["PointerLight02_0001.png","PointerLight02_0002.png","PointerLight02_0003.png","PointerLight02_0004.png","PointerLight02_0005.png","PointerLight02_0006.png","PointerLight02_0007.png","PointerLight02_0008.png","PointerLight02_0009.png","PointerLight02_0010.png","PointerLight02_0011.png","PointerLight02_0012.png","PointerLight02_0013.png","PointerLight02_0014.png"],
+	"TreasureChestLight": ["TreasureChestLight_0001.png","TreasureChestLight_0002.png","TreasureChestLight_0003.png","TreasureChestLight_0004.png","TreasureChestLight_0005.png","TreasureChestLight_0006.png","TreasureChestLight_0007.png","TreasureChestLight_0008.png","TreasureChestLight_0009.png","TreasureChestLight_0010.png","TreasureChestLight_0011.png","TreasureChestLight_0012.png","TreasureChestLight_0013.png","TreasureChestLight_0014.png","TreasureChestLight_0015.png","TreasureChestLight_0016.png","TreasureChestLight_0017.png","TreasureChestLight_0018.png","TreasureChestLight_0019.png","TreasureChestLight_0020.png","TreasureChestLight_0021.png","TreasureChestLight_0022.png","TreasureChestLight_0023.png","TreasureChestLight_0024.png"],
+	"Wind": ["Wind_0001.png","Wind_0002.png","Wind_0003.png","Wind_0004.png","Wind_0005.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Animation_04.png",
+	"format": "RGBA8888",
+	"size": {"w":2004,"h":1792},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0f0646efa185b22e1ec3d477cedc0065:5ae27eb0d1997ca49117d59a2082616e:1fbf717b0fd49187bc22463cd6c5ec65$"
+}
+}

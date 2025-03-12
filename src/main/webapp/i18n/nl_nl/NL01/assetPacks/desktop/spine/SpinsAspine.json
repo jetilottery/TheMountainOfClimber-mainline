@@ -1,0 +1,679 @@
+{
+"skeleton": {
+	"hash": "PqvI2tfeGDqDjtLYy1iSBIAZ/lE",
+	"spine": "3.8.86",
+	"x": -172.95,
+	"y": -119.83,
+	"width": 301.35,
+	"height": 216.06,
+	"images": "./spinsA/",
+	"audio": "D:/WORK/PASHAN/Animate/spinsA"
+},
+"bones": [
+	{ "name": "root", "x": -140.8, "y": -105.2 },
+	{ "name": "Layer 2", "parent": "root" },
+	{ "name": "n12", "parent": "root" },
+	{ "name": "n11", "parent": "root" },
+	{ "name": "n10", "parent": "root" },
+	{ "name": "n09", "parent": "root" },
+	{ "name": "n08", "parent": "root" },
+	{ "name": "n07", "parent": "root" },
+	{ "name": "n06", "parent": "root" },
+	{ "name": "n05", "parent": "root" },
+	{ "name": "n04", "parent": "root" },
+	{ "name": "n03", "parent": "root" },
+	{ "name": "n02", "parent": "root" },
+	{ "name": "n01", "parent": "root" },
+	{ "name": "Layer 4", "parent": "root" },
+	{ "name": "Layer 3 copy", "parent": "root" },
+	{ "name": "Layer 3", "parent": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "return02", "parent": "root" },
+	{ "name": "return01", "parent": "return02" },
+	{ "name": "bone2", "parent": "root", "x": 208.24, "y": 177.99 }
+],
+"slots": [
+	{ "name": "Layer 3", "bone": "Layer 3", "attachment": "Layer 3" },
+	{ "name": "Layer 3 copy", "bone": "Layer 3 copy", "attachment": "Layer 3 copy" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" },
+	{ "name": "Layer 2", "bone": "Layer 2", "attachment": "Layer 2" },
+	{ "name": "n01", "bone": "n01", "attachment": "n01" },
+	{ "name": "n02", "bone": "n02", "attachment": "n02" },
+	{ "name": "n03", "bone": "n03", "attachment": "n03" },
+	{ "name": "n04", "bone": "n04", "attachment": "n04" },
+	{ "name": "n05", "bone": "n05", "attachment": "n05" },
+	{ "name": "n06", "bone": "n06", "attachment": "n06" },
+	{ "name": "n07", "bone": "n07", "attachment": "n07" },
+	{ "name": "n08", "bone": "n08", "attachment": "n08" },
+	{ "name": "n09", "bone": "n09", "attachment": "n09" },
+	{ "name": "n10", "bone": "n10", "attachment": "n10" },
+	{ "name": "n11", "bone": "n11", "attachment": "n11" },
+	{ "name": "n12", "bone": "n12", "attachment": "n12" },
+	{ "name": "Layer 5", "bone": "bone", "attachment": "Layer 4" },
+	{ "name": "auToSpinReturn03", "bone": "return02", "attachment": "auToSpinReturn03" },
+	{ "name": "auToSpinReturn02", "bone": "return01", "attachment": "auToSpinReturn02" },
+	{ "name": "SpinsLight03", "bone": "bone2", "attachment": "SpinsLight03" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 2": {
+				"Layer 2": { "x": 137.7, "y": 103.44, "width": 263, "height": 196 }
+			},
+			"Layer 3": {
+				"Layer 3": { "x": 141, "y": 107.5, "width": 249, "height": 158 }
+			},
+			"Layer 3 copy": {
+				"Layer 3 copy": { "x": 141.5, "y": 107, "width": 249, "height": 158 }
+			},
+			"Layer 4": {
+				"Layer 4": { "x": 88.98, "y": 166.1, "scaleX": 0.6722, "scaleY": 0.6748, "width": 145, "height": 17 }
+			},
+			"Layer 5": {
+				"Layer 4": { "x": 82.92, "y": 73.97, "scaleX": 0.6364, "scaleY": 0.6364, "width": 145, "height": 17 }
+			},
+			"SpinsLight03": {
+				"SpinsLight03": { "x": -9.77, "y": -10.56, "width": 50, "height": 50 }
+			},
+			"auToSpinReturn02": {
+				"auToSpinReturn02": { "x": 10.55, "y": 26.73, "width": 80, "height": 80 }
+			},
+			"auToSpinReturn03": {
+				"auToSpinReturn03": { "x": 7.85, "y": 25.38, "width": 80, "height": 80 }
+			},
+			"n01": {
+				"n01": { "x": 141.5, "y": 127.5, "width": 15, "height": 55 }
+			},
+			"n02": {
+				"n02": { "x": 143, "y": 128, "width": 22, "height": 55 }
+			},
+			"n03": {
+				"n03": { "x": 142.5, "y": 128, "width": 22, "height": 55 }
+			},
+			"n04": {
+				"n04": { "x": 143, "y": 127.5, "width": 24, "height": 55 }
+			},
+			"n05": {
+				"n05": { "x": 143, "y": 127.5, "width": 21, "height": 60 }
+			},
+			"n06": {
+				"n06": { "x": 142.5, "y": 128, "width": 22, "height": 55 }
+			},
+			"n07": {
+				"n07": { "x": 142.5, "y": 127.5, "width": 19, "height": 55 }
+			},
+			"n08": {
+				"n08": { "x": 142.5, "y": 128, "width": 22, "height": 55 }
+			},
+			"n09": {
+				"n09": { "x": 142.5, "y": 128, "width": 22, "height": 55 }
+			},
+			"n10": {
+				"n10": { "x": 144, "y": 128, "width": 44, "height": 55 }
+			},
+			"n11": {
+				"n11": { "x": 141, "y": 127.5, "width": 39, "height": 55 }
+			},
+			"n12": {
+				"n12": { "x": 144, "y": 128, "width": 45, "height": 55 }
+			}
+		}
+	}
+],
+"animations": {
+	"return": {
+		"slots": {
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"SpinsLight03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"auToSpinReturn02": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "color": "fefceaff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "auToSpinReturn02" }
+				]
+			},
+			"auToSpinReturn03": {
+				"color": [
+					{ "color": "ffffffeb", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "color": "ffffffeb", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffffeb" }
+				],
+				"attachment": [
+					{ "name": "auToSpinReturn03" }
+				]
+			},
+			"n01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n05": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n06": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n07": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n08": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n09": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n12": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"return01": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "x": 2.49, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667, "curve": "stepped" },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	},
+	"spinsA01": {
+		"slots": {
+			"Layer 2": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3 copy": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "Layer 3 copy" }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"Layer 5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"SpinsLight03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"auToSpinReturn02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"auToSpinReturn03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n01": {
+				"attachment": [
+					{ "name": "n01" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n02": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "n02" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n03": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": "n03" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n04": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": "n04" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n05": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "n05" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n06": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": "n06" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n07": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": "n07" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n08": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": "n08" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n09": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": "n09" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": "n10" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"n11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": "n11" }
+				]
+			},
+			"n12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"n02": {
+				"translate": [
+					{ "time": 0.0333, "y": -3.16 }
+				]
+			},
+			"n03": {
+				"translate": [
+					{ "time": 0.0667, "y": -6.76 }
+				]
+			},
+			"n04": {
+				"translate": [
+					{ "time": 0.1, "x": -0.9, "y": -6.31 }
+				]
+			},
+			"n05": {
+				"translate": [
+					{ "time": 0.1333, "y": -7.67 }
+				]
+			},
+			"n06": {
+				"translate": [
+					{ "time": 0.1667, "x": -0.9, "y": -8.57 }
+				]
+			},
+			"n07": {
+				"translate": [
+					{ "time": 0.2, "x": 0.45, "y": -9.47 }
+				]
+			},
+			"n08": {
+				"translate": [
+					{ "time": 0.2333, "x": -0.45, "y": -8.57 }
+				]
+			},
+			"n09": {
+				"translate": [
+					{ "time": 0.2667, "x": 0.45, "y": -8.57 }
+				]
+			},
+			"n10": {
+				"translate": [
+					{ "time": 0.3, "x": -1.35, "y": -7.22 }
+				]
+			},
+			"n11": {
+				"translate": [
+					{ "time": 0.3333, "x": -0.45, "y": -6.31 }
+				]
+			},
+			"n01": {
+				"translate": [
+					{ "x": -1.35, "y": -5.86 }
+				]
+			},
+			"Layer 2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": -8.7, "y": -7.91, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "x": 1.053, "y": 1.053, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333 }
+				]
+			}
+		}
+	},
+	"spinsA02": {
+		"slots": {
+			"Layer 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 3": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff6f" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2.0333, "color": "ffffff6f" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"Layer 4": {
+				"color": [
+					{ "color": "ffffffa6" },
+					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff50" }
+				],
+				"attachment": [
+					{ "name": "Layer 4" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Layer 5": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.9667, "color": "ffffff89" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 1.3333, "name": "Layer 4" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"SpinsLight03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"auToSpinReturn02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"auToSpinReturn03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n05": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n06": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n07": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n08": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n09": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"n12": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Layer 4": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": 115.49, "y": 0.79 }
+				]
+			},
+			"bone": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.3333 },
+					{ "time": 1.9667, "x": 114.23, "y": -0.67 }
+				]
+			}
+		}
+	}
+}
+}

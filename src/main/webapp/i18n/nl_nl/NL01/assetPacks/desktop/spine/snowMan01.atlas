@@ -1,0 +1,139 @@
+
+snowMan01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snowman02Body
+  rotate: false
+  xy: 110, 121
+  size: 99, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+snowman02Head
+  rotate: true
+  xy: 2, 110
+  size: 141, 106
+  orig: 141, 106
+  offset: 0, 0
+  index: -1
+snowman02LArm01
+  rotate: false
+  xy: 409, 152
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+snowman02LArm02
+  rotate: true
+  xy: 145, 9
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+snowman02LLeg01
+  rotate: false
+  xy: 600, 191
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+snowman02RArm01
+  rotate: false
+  xy: 436, 51
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+snowman02RArm02
+  rotate: true
+  xy: 242, 9
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+snowman02RLeg01
+  rotate: true
+  xy: 436, 2
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+snowman02RLeg02
+  rotate: false
+  xy: 548, 4
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+snowmanBody
+  rotate: false
+  xy: 211, 121
+  size: 99, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+snowmanHead
+  rotate: false
+  xy: 2, 2
+  size: 141, 106
+  orig: 141, 106
+  offset: 0, 0
+  index: -1
+snowmanLArm01
+  rotate: false
+  xy: 481, 152
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+snowmanLArm02
+  rotate: true
+  xy: 312, 141
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+snowmanLLeg01
+  rotate: false
+  xy: 627, 129
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+snowmanLLeg02
+  rotate: true
+  xy: 553, 164
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+snowmanRArm01
+  rotate: false
+  xy: 508, 51
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+snowmanRArm02
+  rotate: true
+  xy: 339, 29
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+snowmanRLeg01
+  rotate: true
+  xy: 492, 2
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+snowmanRLeg02
+  rotate: true
+  xy: 580, 75
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,282 @@
+{"frames": {
+
+"bonus01Turntable.png":
+{
+	"frame": {"x":813,"y":1241,"w":517,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":517,"h":562},
+	"sourceSize": {"w":520,"h":570}
+},
+"bonus01TurntableLight.png":
+{
+	"frame": {"x":1421,"y":303,"w":368,"h":224},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":10,"w":368,"h":224},
+	"sourceSize": {"w":390,"h":270}
+},
+"bonus01TurntablePointer.png":
+{
+	"frame": {"x":813,"y":1805,"w":68,"h":159},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":68,"h":159},
+	"sourceSize": {"w":80,"h":240}
+},
+"Boy01SnowTumble.png":
+{
+	"frame": {"x":1643,"y":681,"w":209,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":209,"h":208},
+	"sourceSize": {"w":210,"h":210}
+},
+"BoyUp04.png":
+{
+	"frame": {"x":974,"y":1805,"w":49,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":27,"w":49,"h":36},
+	"sourceSize": {"w":100,"h":100}
+},
+"goatTumble.png":
+{
+	"frame": {"x":1574,"y":1472,"w":206,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":206,"h":210},
+	"sourceSize": {"w":210,"h":210}
+},
+"LandscapehowToPlayDi.png":
+{
+	"frame": {"x":1,"y":1,"w":1418,"h":652},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":1418,"h":652},
+	"sourceSize": {"w":1418,"h":660}
+},
+"ManHover.png":
+{
+	"frame": {"x":1647,"y":535,"w":144,"h":223},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":8,"w":144,"h":223},
+	"sourceSize": {"w":166,"h":242}
+},
+"mapHover.png":
+{
+	"frame": {"x":1745,"y":174,"w":112,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":112,"h":123},
+	"sourceSize": {"w":112,"h":134}
+},
+"PointerLight03_0001.png":
+{
+	"frame": {"x":1643,"y":937,"w":35,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":12,"w":35,"h":37},
+	"sourceSize": {"w":60,"h":60}
+},
+"QuestionRotationLight.png":
+{
+	"frame": {"x":1745,"y":1,"w":135,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":135,"h":171},
+	"sourceSize": {"w":160,"h":180}
+},
+"ReturnHover.png":
+{
+	"frame": {"x":1762,"y":1684,"w":104,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":16,"w":104,"h":102},
+	"sourceSize": {"w":112,"h":134}
+},
+"Sbonus02Ax.png":
+{
+	"frame": {"x":1647,"y":303,"w":212,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":230},
+	"sourceSize": {"w":260,"h":260}
+},
+"Sbonus02bg.jpg":
+{
+	"frame": {"x":1,"y":655,"w":810,"h":1228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1228},
+	"sourceSize": {"w":810,"h":1228}
+},
+"Sbonus02Stone.png":
+{
+	"frame": {"x":813,"y":655,"w":600,"h":584},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":584},
+	"sourceSize": {"w":600,"h":584}
+},
+"SnowParticles.png":
+{
+	"frame": {"x":1643,"y":891,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"SnowParticles02.png":
+{
+	"frame": {"x":1762,"y":1790,"w":42,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":42,"h":43},
+	"sourceSize": {"w":44,"h":44}
+},
+"SnowParticles03.png":
+{
+	"frame": {"x":1691,"y":1232,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":14,"w":20,"h":20},
+	"sourceSize": {"w":44,"h":44}
+},
+"SownMan01UP03.png":
+{
+	"frame": {"x":1782,"y":1651,"w":31,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":32,"w":31,"h":48},
+	"sourceSize": {"w":100,"h":100}
+},
+"SownMan02SnowTumble_0001.png":
+{
+	"frame": {"x":1625,"y":1262,"w":208,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":208,"h":192},
+	"sourceSize": {"w":210,"h":210}
+},
+"SpinsLight01.png":
+{
+	"frame": {"x":1540,"y":1715,"w":150,"h":109},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":150,"h":109},
+	"sourceSize": {"w":150,"h":150}
+},
+"SpinsLight02.png":
+{
+	"frame": {"x":1651,"y":1684,"w":150,"h":109},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":150,"h":109},
+	"sourceSize": {"w":150,"h":150}
+},
+"SpinsLight03.png":
+{
+	"frame": {"x":1806,"y":1790,"w":37,"h":44},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":37,"h":44},
+	"sourceSize": {"w":50,"h":50}
+},
+"SpinsLight04.png":
+{
+	"frame": {"x":1025,"y":1805,"w":37,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":37,"h":43},
+	"sourceSize": {"w":50,"h":50}
+},
+"StoneLight01.png":
+{
+	"frame": {"x":1415,"y":673,"w":300,"h":226},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":300,"h":226},
+	"sourceSize": {"w":300,"h":300}
+},
+"StoneLight02.png":
+{
+	"frame": {"x":1332,"y":1464,"w":240,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":42,"w":240,"h":249},
+	"sourceSize": {"w":300,"h":300}
+},
+"StoneLight03.png":
+{
+	"frame": {"x":1415,"y":975,"w":274,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":13,"w":274,"h":285},
+	"sourceSize": {"w":300,"h":300}
+},
+"StoneLight04.png":
+{
+	"frame": {"x":1332,"y":1262,"w":291,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":50,"w":291,"h":200},
+	"sourceSize": {"w":300,"h":300}
+},
+"StoneSplit01.png":
+{
+	"frame": {"x":1332,"y":1715,"w":154,"h":206},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":154,"h":206},
+	"sourceSize": {"w":190,"h":206}
+},
+"StoneSplit02.png":
+{
+	"frame": {"x":1782,"y":1472,"w":96,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":23,"w":96,"h":177},
+	"sourceSize": {"w":190,"h":206}
+},
+"StoneSplit03.png":
+{
+	"frame": {"x":1691,"y":891,"w":160,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":160,"h":206},
+	"sourceSize": {"w":190,"h":206}
+},
+"StoneSplit04.png":
+{
+	"frame": {"x":1691,"y":1099,"w":134,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":40,"w":134,"h":131},
+	"sourceSize": {"w":190,"h":206}
+},
+"StoneSplit05.png":
+{
+	"frame": {"x":1421,"y":1,"w":322,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":322,"h":300},
+	"sourceSize": {"w":328,"h":300}
+}},
+"animations": {
+	"SnowParticles": ["SnowParticles02.png","SnowParticles03.png"],
+	"SpinsLight": ["SpinsLight01.png","SpinsLight02.png","SpinsLight03.png","SpinsLight04.png"],
+	"StoneLight": ["StoneLight01.png","StoneLight02.png","StoneLight03.png","StoneLight04.png"],
+	"StoneSplit": ["StoneSplit01.png","StoneSplit02.png","StoneSplit03.png","StoneSplit04.png","StoneSplit05.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI_01.png",
+	"format": "RGBA8888",
+	"size": {"w":1881,"h":1884},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c22b6e6355c9138abcdbc3c4611f7bf1:fa17911b04e15d97ca84fc558a940589:9852607c8a70e2a00cfe0eb7fd76f4bb$"
+}
+}

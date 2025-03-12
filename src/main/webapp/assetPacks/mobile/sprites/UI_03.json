@@ -1,0 +1,60 @@
+{"frames": {
+
+"BuyBackground.jpg":
+{
+	"frame": {"x":614,"y":813,"w":810,"h":1228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1228},
+	"sourceSize": {"w":810,"h":1228}
+},
+"groundLight.png":
+{
+	"frame": {"x":1443,"y":1,"w":521,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":521,"h":311},
+	"sourceSize": {"w":530,"h":328}
+},
+"LandscapeBuyBackground.jpg":
+{
+	"frame": {"x":1,"y":1,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"LandscapenoWinDi.png":
+{
+	"frame": {"x":1426,"y":813,"w":1222,"h":587},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":31,"w":1222,"h":587},
+	"sourceSize": {"w":1230,"h":624}
+},
+"LandscapewinDi.png":
+{
+	"frame": {"x":1,"y":813,"w":1230,"h":611},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":1230,"h":611},
+	"sourceSize": {"w":1230,"h":624}
+},
+"SpinsLeftBG.png":
+{
+	"frame": {"x":1443,"y":314,"w":290,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":290,"h":50},
+	"sourceSize": {"w":290,"h":50}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI_03.png",
+	"format": "RGBA8888",
+	"size": {"w":2014,"h":2044},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3cb3ba178ab20ffa5c8904f5404bf100:898230761f2f7ca7ea1620dd44eedf0d:95f922e51d83c29d2ea6a5508932adec$"
+}
+}

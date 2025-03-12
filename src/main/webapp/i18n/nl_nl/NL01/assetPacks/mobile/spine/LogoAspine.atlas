@@ -1,0 +1,172 @@
+
+LogoAspine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+$
+  rotate: false
+  xy: 185, 657
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+$1 copy 2
+  rotate: false
+  xy: 106, 674
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 460, 602
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 154, 302
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: false
+  xy: 2, 691
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Layer 3 copy 2
+  rotate: false
+  xy: 39, 678
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+Layer 637 copy 2
+  rotate: false
+  xy: 154, 479
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+Layer 925 copy
+  rotate: false
+  xy: 332, 267
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+flag0001
+  rotate: false
+  xy: 2, 522
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flag0002
+  rotate: false
+  xy: 456, 449
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flag0003
+  rotate: false
+  xy: 608, 449
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flag0004
+  rotate: false
+  xy: 760, 449
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flag0005
+  rotate: false
+  xy: 2, 370
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flash01
+  rotate: false
+  xy: 358, 621
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flash02
+  rotate: false
+  xy: 256, 621
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 534, 2
+  size: 453, 445
+  orig: 453, 445
+  offset: 0, 0
+  index: -1
+mapIcon01
+  rotate: false
+  xy: 590, 601
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+mapIcon02
+  rotate: false
+  xy: 712, 601
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+mapIcon03
+  rotate: false
+  xy: 834, 601
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+
+LogoAspine2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo
+  rotate: false
+  xy: 2, 242
+  size: 568, 342
+  orig: 568, 342
+  offset: 0, 0
+  index: -1
+logoLight
+  rotate: true
+  xy: 572, 2
+  size: 582, 439
+  orig: 582, 439
+  offset: 0, 0
+  index: -1
+
+LogoAspine3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light01
+  rotate: false
+  xy: 2, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
